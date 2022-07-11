@@ -9,6 +9,12 @@
   </url>
   
   <url>
+    <loc>https://iot3.atsign.wtf/industries/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://iot3.atsign.wtf/community/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -178,6 +184,12 @@
   
   <url>
     <loc>https://iot3.atsign.wtf/docs/contribute/shortcodes/links/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://iot3.atsign.wtf/docs/contribute/shortcodes/panel/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
