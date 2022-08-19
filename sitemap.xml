@@ -45,6 +45,12 @@
   </url>
   
   <url>
+    <loc>https://iot3.atsign.wtf/tools/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://iot3.atsign.wtf/docs/atplatform/architecture/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
