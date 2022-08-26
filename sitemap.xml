@@ -39,7 +39,7 @@
   </url>
   
   <url>
-    <loc>https://iot3.atsign.wtf/docs/atplatform/overview/</loc>
+    <loc>https://iot3.atsign.wtf/docs/atplatform/atplatformoverview/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -63,7 +63,7 @@
   </url>
   
   <url>
-    <loc>https://iot3.atsign.wtf/docs/atplatform/root-server/</loc>
+    <loc>https://iot3.atsign.wtf/docs/atplatform/rootserver/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
